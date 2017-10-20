@@ -1,0 +1,15 @@
+{
+  "name": "testrandom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "testFail"
+  },
+  "author": "yangga",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "lodash": "^4.17.4"
+  }
+}
