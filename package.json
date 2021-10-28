@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "crypto": "^1.0.1",
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.21"
   }
 }
